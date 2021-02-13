@@ -1,0 +1,5 @@
+{
+    "workspaces": [
+        "client-sdk/ts-web"
+    ]
+}
